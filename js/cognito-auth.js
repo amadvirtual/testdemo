@@ -130,7 +130,7 @@ var WildRydes = window.WildRydes || {};
     }
 
     function handleRegister(event) {
-        var email = $('#emailInputRegister').val();
+        var email = 'amad.aud@gmail.com';
         var password = $('#passwordInputRegister').val();
         var password2 = $('#password2InputRegister').val();
 
